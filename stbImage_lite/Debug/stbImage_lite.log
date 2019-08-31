@@ -1,0 +1,61 @@
+﻿  utils.c
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(468): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(469): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(470): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(541): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(542): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(550): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(562): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(557): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(580): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(594): warning C4244: “函数”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(661): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(671): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\utils.c(711): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  image.c
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(210): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(211): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(212): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(213): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(369): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(373): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(381): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(385): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(658): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(659): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(664): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(665): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(677): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(678): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(683): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(684): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(734): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(876): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(879): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(881): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(882): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(927): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(928): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(929): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(950): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(951): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(952): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(990): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1014): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1044): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1063): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1079): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1253): warning C4305: “函数”: 从“double”到“float”截断
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1254): warning C4305: “函数”: 从“double”到“float”截断
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1255): warning C4305: “函数”: 从“double”到“float”截断
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1256): warning C4305: “函数”: 从“double”到“float”截断
+c:\users\qsc\documents\visual studio 2015\projects\stbimage_lite\stbimage_lite\image.c(1307): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  demo.c
+  darknet.c
+  box.c
+  正在生成代码...
+  demo_imgIO.cpp
+  stbImage_lite.vcxproj -> C:\Users\qsc\documents\visual studio 2015\Projects\stbImage_lite\Debug\stbImage_lite.exe
+  stbImage_lite.vcxproj -> C:\Users\qsc\documents\visual studio 2015\Projects\stbImage_lite\Debug\stbImage_lite.pdb (Full PDB)
