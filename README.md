@@ -5,7 +5,10 @@
 
   |---stb_image_write.h用于保存图片格式: PNG, TGA, BMP, HDR
 
-For example:
+
+
+//For example:
+
 #include <stdio.h>
 
 #define STB_IMAGE_WRITE_IMPLEMENTATION
@@ -14,8 +17,6 @@ For example:
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 
-
-////////
 int main(int argc, char** argv)
 {
     int w, h, n;
@@ -46,5 +47,5 @@ int main(int argc, char** argv)
 
     return 0;
 }
-////////
+
 
