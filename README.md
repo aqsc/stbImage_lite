@@ -1,4 +1,5 @@
-# stbImage_lite
+#From qiansicheng, aqsc.github.io
+# stbImage
     
 std_Image is a very efficent and simplicity Image Processing Library written in pure C language.
 
@@ -47,4 +48,7 @@ std_Image is a very efficent and simplicity Image Processing Library written in 
     return 0;
   }
  ```
+ 
+# stbImage_lite
 
+Image processing, e.g. HSV transformation, random crop, image resize,etc.
