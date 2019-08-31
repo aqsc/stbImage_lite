@@ -7,7 +7,7 @@ std_Image is a very efficent and simplicity Image Processing Library written in 
 
 
 //For example:
-'''
+```
   #include <stdio.h>
 
   #define STB_IMAGE_WRITE_IMPLEMENTATION
@@ -46,5 +46,5 @@ std_Image is a very efficent and simplicity Image Processing Library written in 
 
     return 0;
   }
- '''
+ ```
 
