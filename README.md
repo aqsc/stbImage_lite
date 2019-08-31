@@ -6,8 +6,7 @@
   |---`stb_image_write.h用于保存图片格式: PNG, TGA, BMP, HDR`
 
 
- 
- //For example:
+    //For example:
 
 #include <stdio.h>
 
