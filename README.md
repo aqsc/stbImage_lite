@@ -1,13 +1,13 @@
 # stbImage_lite
     
-|---std_Image is a very efficent and simplicity Image Processing Library written in pure C language.
+std_Image is a very efficent and simplicity Image Processing Library written in pure C language.
 
    |---`stb_image.h用于解析图片格式: JPG, PNG, TGA, BMP, PSD, GIF, HDR, IC`    
    |---`stb_image_write.h用于保存图片格式: PNG, TGA, BMP, HDR`
 
 
 //For example:
-
+'''
   #include <stdio.h>
 
   #define STB_IMAGE_WRITE_IMPLEMENTATION
@@ -46,5 +46,5 @@
 
     return 0;
   }
- 
+ '''
 
