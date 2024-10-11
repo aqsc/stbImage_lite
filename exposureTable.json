@@ -1,4 +1,12 @@
 {
+  "LumaTarget": 50,
+  "LumaTolerance": 4,
+  "Iso100Gain": 1.0,
+  "InitialExposureIndex": 160,
+  "InitialExposureTime": 3900000,
+  "InitalGain": 116,
+  "BlackLevelBias": 4,
+  "ConvergenceSpeed": 1.125,
   "ExposureTable":
   {
     "NumValidEntries": 300,
